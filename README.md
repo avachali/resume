@@ -1,3 +1,5 @@
+# [PDF](/resumes/AnupVachali_2020.pdf) | [Docx](/resumes/AnupVachali_2020.docx)
+
 # SUMMARY
 ```
 Accomplished technology leader with experience leading geographically dispersed teams in the 
