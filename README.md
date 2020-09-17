@@ -13,7 +13,7 @@ Experience in Banking, Insurance and Transportation industries.
 Email: avachali@gmail.com
 Phone: 984 377 0390
 Location: Raleigh/Durham, NC
-Linkedin: https://linkedin.com/in/avachali
+Linkedin: [https://linkedin.com/in/avachali] (https://linkedin.com/in/avachali)
 ```
 # SKILLS
 
@@ -58,7 +58,7 @@ MS in Computer Science, University of Memphis, Memphis, TN
   next generation web based authoring platform for distribution of Research reports.
 - Hands on experience with talent development including recruiting and coaching the next generation of Credit Suisse’s 
   leaders in the Technical Analyst program. Actively recruited for Credit Suisse’s Women in Technology program. 
-  Helped roll out an America wide Thank you program for increasing employee morale.
+  Rolled out an America wide Thank you recognition program to increase employee morale.
 ```
 ## Sr. Technical Lead /  May 2014 – October 2017
 
