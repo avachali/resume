@@ -60,11 +60,9 @@ MS in Computer Science, University of Memphis, Memphis, TN
 - Successfully led the modernization of a suite of legacy web applications and implemented 
   on a multi-year data strategy plan.
 - Collaborated with a team of cross-functional stakeholders in the architecture, design and 
-  development of Credit Suisse’s web based authoring platform for distribution of Research 
-  reports.
+  development of a web based authoring platform for distribution of Research reports.
 - Hands on experience with talent development including recruiting and coaching the next 
-  generation of Credit Suisse’s leaders in the Technical Analyst program. 
-  Actively recruited for Credit Suisse’s Women in Technology program. 
+  generation of leaders in the 'Technical Analyst' and 'Women in Technology' programs. 
   Rolled out an America wide Thank you recognition program to increase employee morale.
 ```
 ## Sr. Technical Lead /  May 2014 – October 2017
